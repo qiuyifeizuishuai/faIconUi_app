@@ -1,0 +1,3 @@
+*{margin: 0;padding: 0}
+.login .logo{width: 100%;display: flex;justify-items: center}
+.login .logo img{width: 226px;height: 147px}
